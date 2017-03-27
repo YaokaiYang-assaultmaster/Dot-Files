@@ -1,6 +1,8 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:usr/local/sbin:$PATH
 
+export PATH="/usr/local/sbin:$PATH"
+
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/YangYaokai/.oh-my-zsh
 
@@ -84,4 +86,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # alias p0f=/usr/local/sbin/p0f
+
+
 
