@@ -86,6 +86,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # alias p0f=/usr/local/sbin/p0f
-alias vi=/usr/local/bin/vim
-
 
